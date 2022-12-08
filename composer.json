@@ -6,8 +6,8 @@
     }
   },
   "require": {
-    "aws/aws-sdk-php": "~3.0",
-    "illuminate/contracts": "5.1.*",
-    "illuminate/support": "5.1.*"
+    "aws/aws-sdk-php": "*",
+    "illuminate/contracts": "*",
+    "illuminate/support": "*"
   }
 }
